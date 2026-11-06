@@ -43,3 +43,6 @@ and project planning software;
 * [**Taskade**](https://taskade.com/) [Multi-platform / *Freemium*] - Chat, write, get things done. The unified workspace for distributed teams. ([Repo](https://github.com/taskade/taskade))
 * [**Notyfy**](https://notyfy.co/) [Multi-platform / *Free*] - All your web notifications in one place.
 * [**WebCull**](https://webcull.com/) [Web / Extensions / *Freemium*] - Your web resources securely organized in one place.
+
+- [TranscribeLab](https://transcribelab.pro) - Bot-free AI audio & video transcription workspace with cross-recording search and 1-click book exports.
+
